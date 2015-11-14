@@ -2,3 +2,5 @@
 /packer/packer-virtualbox-iso-1433722713.ovf
 /packer/packer_cache/
 /packer/packer_virtualbox-ovf_virtualbox.box
+*.box
+/packer_cache

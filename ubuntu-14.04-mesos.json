@@ -7,7 +7,7 @@
         "cfn_tools_url": "https://s3.amazonaws.com/cloudformation-examples/aws-cfn-bootstrap-latest.tar.gz",
         "ami_prefix": "{{env `ATLAS_USERNAME`}}",
         "atlas_username": "{{env `ATLAS_USERNAME`}}",
-        "atlas_name": "{{env `ATLAS_NAME`}}"
+        "atlas_name": "mesos"
     },
 
     "builders": [
